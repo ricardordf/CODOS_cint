@@ -5,7 +5,6 @@
 #include <MySQL_Cursor.h>
 #include <Arduino_MKRENV.h>
 //#include <String.h>
-//try1
 
 //INICIALIZADORES
 WiFiClient client;
